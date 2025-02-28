@@ -60,7 +60,7 @@ Tom from product and Jerry from engineering met to discuss project "Mallet". Tom
 Command:
 
 ```bash
-python summarize_transcripts.py meeting_transcript.txt
+python main.py meeting_transcript.txt
 ```
 
 Output:
