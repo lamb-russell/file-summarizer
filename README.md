@@ -1,4 +1,4 @@
-# File-Summarizer: Summarize Meeting Transcripts with LLM
+# File-Summarizer: Summarize File Contents with LLM
 
 This project provides a Python-based solution to summarize meeting transcripts using a Large Language Model (LLM). The script processes a text file containing a transcript and generates a concise summary, including key points, speaker actions, follow-ups, and other essential details.
 
