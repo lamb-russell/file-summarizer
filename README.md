@@ -27,7 +27,7 @@ Before running the script, ensure you have the following:
 
    ```bash
    git clone https://github.com/lamb-russell/file-summarizer
-   cd your-repo
+   cd file-summarizer
    ```
 
 2. Install dependencies:
@@ -41,7 +41,7 @@ Before running the script, ensure you have the following:
 1. Prepare a text file containing your meeting transcript.
 2. Run the script with the file path as an argument:
    ```bash
-   python summarize_transcripts.py /path/to/your/transcript.txt
+   python main.py /path/to/your/transcript.txt
    ```
 3. The script will output:
    - Token count of the input text.
